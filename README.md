@@ -23,6 +23,16 @@ Frontend Developer passionate about building modern web applications with JavaSc
 
 ### 🚕 WIZZCABS
 Taxi booking application with authentication, booking flow, ride history and responsive UI.
+## 📈 Currently Building
+
+🚕 WIZZCABS - Taxi Booking Platform
+
+Features:
+- Authentication
+- Protected Routes
+- Ride Booking
+- Ride History
+- Responsive UI
 
 ### 🛒 React Shopping Site
 E-commerce frontend built using React.
