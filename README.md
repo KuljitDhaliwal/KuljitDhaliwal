@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Kuljit Singh Dhaliwal 👋
 
-<!--
-**KuljitDhaliwal/KuljitDhaliwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building modern web applications with JavaScript and React.
 
-Here are some ideas to get you started:
+## 🚀 Current Project
+- WIZZCABS - Taxi Booking Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Redux
+- Git & GitHub
+- REST APIs
+
+## 🌱 Currently Learning
+- Advanced JavaScript
+- React Architecture
+- Data Structures & Algorithms
+
+## 📌 Featured Projects
+
+### 🚕 WIZZCABS
+Taxi booking application with authentication, booking flow, ride history and responsive UI.
+
+### 🛒 React Shopping Site
+E-commerce frontend built using React.
+
+### ✅ Redux Todo App
+Task management application using Redux.
+
+## 🎯 2026 Goals
+- Complete WIZZCABS
+- Become Interview Ready
+- Land a Frontend Developer Role
+- Strengthen DSA & React Skills
